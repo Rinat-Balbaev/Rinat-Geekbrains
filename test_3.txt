@@ -1,0 +1,4 @@
+Dmitry 18000
+Vladimir 21000
+Ivan 15000
+Victor 30000
